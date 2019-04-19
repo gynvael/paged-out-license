@@ -40,7 +40,7 @@ When submitting an article to Paged Out! please send us your preference with reg
 
 1. Audio recordings of the article:
     * I agree for others to create audio recordings of my article and to distribute them.
-    * My with is that others DO NOT distribute audio recordings of my article.
+    * My will is that others DO NOT distribute audio recordings of my article.
 
 2. Profit sharing participation:
     * I want to participate in profit sharing (if there is any profit that is).
