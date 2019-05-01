@@ -36,7 +36,7 @@ If you have any questions about the agreement, or would like to have a customize
 
 #### Selected agreement variant
 
-When submitting an article to Paged Out! please send us your preference with regards to the optional clauses, as per list below.
+When submitting an article to Paged Out! you will receive a form link from us where we will ask you about your preferences regarding the optional clauses. Option preview:
 
 1. Audio recordings of the article:
     * I agree for others to create audio recordings of my article and to distribute them.
@@ -53,3 +53,24 @@ When submitting an article to Paged Out! please send us your preference with reg
 4. Optional article reuse:
     * I want my article to be re-used in spin-off projects too! (Points 2 and 3 apply for spin-off projects as well!)
     * I want my article to be only used in the single issue of Paged Out! magazine for which I submitted it.
+
+#### Official short names for license variants
+
+In order to optimize referring to specific variant selections, we will use (especially internally) short names for the various options. The short names will be created in the following manner:
+
+* All short names will start with `SAA` and end with the version number after a single space (e.g. ` 0.0.5`).
+* In case The Author DOES NOT want to participate in profit sharing, and:
+    * wants their share to go back into the pool, the suffix `-POOL` will be added,
+    * wants to tip the Paged Out! Institute, the suffix `-TIP` will be added.
+* In case The Author DOES NOT agree to audio recordings option, the suffix `-NA` will be added.
+* In case The Author DOES NOT agree for the article to be re-used in spin-off projects, suffix `-NS` will be added.
+* In case there are no suffixes, i.e. The Author agreed to the audio recording and spin-off project options, and wants to participate in profit sharing, the suffix `-ALL` will be added.
+
+**Note:** Suffix order doesn't matter, so `SAA-NS-NA 0.0.5` is the same thing as `SAA-NA-NS 0.0.5`. We will try to use the order specified above though.
+
+Examples (assuming license version 0.0.5 in all examples):
+
+* If The Author agreed to audio recordings, profit sharing and spin-off projects, the short name for this variant will be `SAA-ALL 0.0.5`.
+* If The Author agreed to everything, apart from profit sharing, but would like to tip the Institute, the short name will be `SAA-TIP 0.0.5`.
+* If The Author does not agree to audio recording, nor spin-off projects, and does not want to participate in profit sharing (and wants their share to go back into the pool), the short name will be `SAA-POOL-NA-NS 0.0.5`.
+
